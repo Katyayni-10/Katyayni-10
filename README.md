@@ -11,7 +11,6 @@
 </p>
 
 <p align="center">
-  🔭 I'm currently building AI-powered tools for medical research & diagnostics <br>
   🌱 I'm currently sharpening my skills in Deep Learning and Generative AI (RAG, agents) <br>
   📫 Reach me at <a href="mailto:katyaynibajaj@gmail.com">katyaynibajaj@gmail.com</a> <br>
   🤝 Open to <b>Data Science / Machine Learning / AI internships</b>
