@@ -83,7 +83,7 @@
       <b>Stack:</b> Scikit-learn, Pandas, NumPy
     </td>
     <td width="50%">
-      <h4>🧠 <a href="https://github.com/Katyayni-10/kisanmitra_final">KisanMitra — Multilingual AI Assistant for Farmers</a></h4>
+      <h4>🌾 <a href="https://github.com/Katyayni-10/kisanmitra_final">KisanMitra — Multilingual AI Assistant for Farmers</a></h4>
       AI-Powered Crop Disease Detection,  Multilingual Voice Assistant, Crop Health Journal,  Weather-Based Crop Disease Risk Screening, Government Scheme Information
       <br><br>
       <b>Stack:</b> pyTorch
